@@ -3,11 +3,11 @@
 _Transforming the most useless key **ever** in the most useful one._
 <sub>_For vi/Vim/NeoVim addicts at least_.</sub>
 
-# WARNING
+# About the fork
 
-**The project now lives on https://gitlab.com/interception/linux/plugins/caps2esc
-as an [Interception Tools][interception-tools] plugin. This repository is now
-frozen.**
+This fork is intended to work with Arch Linux with a local PKGBUILD. It was
+modified to not alter the behavior of the ESC key, which the original package
+was modifying to be caps.
 
 ---
 
